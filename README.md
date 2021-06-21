@@ -1,4 +1,4 @@
-Python and React dev. Automation tester.
+Python, Java and React dev. Automation tester.
 Damian Skiedrzyński
 
 
